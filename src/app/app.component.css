@@ -1,0 +1,13 @@
+.Container{
+    /* aplica gradiente de fundo */
+    background: #252980;
+    background: linear-gradient(358deg, rgba(37, 41, 128, 1) 25%, rgba(107, 60, 146, 1) 75%);
+
+    width: 100vw;
+    height: 100vh;
+
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+/* Garante que o body ocupe toda a tela e sem borda branca */
+html, body {
+  width: 100%;
+  height: 100%;
+  background: #000; /* ou outra cor de fundo que você queira */
+}
